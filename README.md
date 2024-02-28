@@ -34,7 +34,31 @@ The EDA process includes the following steps:
    - Sales by occupation
    - Sales by product category
    - Top-selling products
-   
+
+### Gender Distribution
+![Gender Distribution](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/Gender.png)
+The bar chart above shows the distribution of buyers by gender, indicating that the majority of buyers are females.
+
+### Age Group Analysis
+![Age Group Analysis](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/Age%20Group.png)
+The bar chart displays the distribution of buyers across different age groups, with a significant portion falling within the 26-35 age range, especially among females.
+
+### State-wise Sales
+![State-wise Sales](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/State%20wise%20Amount.png)
+These bar charts illustrate the total number of orders and sales amounts from the top 10 states, indicating Uttar Pradesh, Maharashtra, and Karnataka as the states with the highest sales.
+
+### Marital Status
+![Marital Status](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/Marital%20Status%20wise%20Amount.png)
+The bar chart represents the distribution of buyers by marital status, with a higher purchasing power observed among married individuals.
+
+### Occupation
+![Occupation](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/Occupation.png)
+This chart displays the distribution of buyers by occupation, highlighting the significant presence of buyers working in the IT, Healthcare, and Aviation sectors.
+
+### Product Category
+![Product Category](https://github.com/VaibhavGit27/Sales-Insights/blob/main/Visualizations/Product%20Category.png)
+The visualization showcases the distribution of sold products across different categories, with food, clothing, and electronics being the top-selling categories.
+
 ## Results and Insights
 
 - Most of the buyers are females, and their purchasing power is higher than that of males.
@@ -46,10 +70,9 @@ The EDA process includes the following steps:
 - Specific products within these categories are popular among buyers.
 
 ## Conclusion
-
-The analysis reveals that married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from Food, Clothing, and Electronics categories during Diwali.
-
+The analysis indicates that married women aged 26-35 years, primarily residing in Uttar Pradesh, Maharashtra, and Karnataka, and working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from food, clothing, and electronics categories.
 
 ---
 
 Thank you for visiting!
+
